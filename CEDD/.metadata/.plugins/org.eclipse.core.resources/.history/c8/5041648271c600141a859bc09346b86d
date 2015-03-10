@@ -1,0 +1,13 @@
+package com.yc.test;
+
+public class Test_Fuzzy10Bin {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

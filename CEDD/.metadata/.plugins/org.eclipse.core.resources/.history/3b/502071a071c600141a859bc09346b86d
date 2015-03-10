@@ -1,0 +1,16 @@
+package com.yc.test;
+import com.yc.cedd.RGB2HSV;
+import com.yc.cedd.Fuzzy10Bin;
+
+
+public class Test_Fuzzy10Bin {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

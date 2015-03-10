@@ -1,0 +1,27 @@
+package com.yc.test;
+
+import java.util.Scanner;
+
+import com.yc.cedd.RGB2HSV;;
+public class Test_RGB2HSV {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Input RGB Value:");
+		int rgb[]=new int[3];
+        Scanner in=new Scanner(System.in); 		
+		for(int i=0;i<2;i++){
+			in.nextInt();
+			
+			
+		}
+			
+		RGB2HSV rgb2hsv=new RGB2HSV();    
+		
+		
+	}
+
+}
